@@ -1,0 +1,22 @@
+{
+  "itemName" : "pat_poopcoleslaw",
+  "shortdescription" : "Poop Coleslaw",
+  "description" : "Coleslaw with some poop.",
+  "inventoryIcon" : "poopcoleslaw.png",
+  "rarity" : "Essential",
+  "tooltipKind" : "food",
+  "category" : "preparedFood",
+  "price" : 1420,
+  "maxStack" : 1,
+  "effects" : [[
+    {
+			"effect" : "weakpoison",
+			"duration" : 15
+    },
+		"zcrab_coleslaw",
+		"pat_poopwatervomit"
+	]],
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.5
+}

@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "pat",
+  "tags" : "Miscellaneous|Cheats and God Items|Food and Farming",
+  "description" : "coleslaw but with poop\nits like regular cole slaw but made with poop salad cream. its like salad cream but made with poop water instead of water\n\neat to vomit and be poisoned\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n\n\n\n[url=https://i.imgur.com/IHHOckJ.png]paint.net crashed when i was making hte icon that was fun[/url]",
+  "name" : "pat_poopcoleslaw",
+  "friendlyName" : "Poop Coleslaw",
+  "steamContentId" : "2776377431",
+  "link" : "steam://url/CommunityFilePage/2776377431",
+  "includes" : ["pat_famouspoopwater", "zcrab_coleslaw"]
+}

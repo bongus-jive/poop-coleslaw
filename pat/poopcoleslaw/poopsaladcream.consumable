@@ -1,0 +1,31 @@
+{
+  "itemName" : "pat_poopsaladcream",
+  "shortdescription" : "Poop Salad Cream",
+  "description" : "Salad cream made with poop water.",
+  "inventoryIcon" : "poopsaladcream.png",
+  "rarity" : "Legendary",
+  "tooltipKind" : "food",
+  "category" : "preparedFood",
+  "price" : 1269,
+  "maxStack" : 1,
+  "effects" : [[
+    {
+			"effect" : "weakpoison",
+			"duration" : 30
+    },
+    {
+			"effect" : "maxhealthscalingboostfood",
+			"duration" : 9
+    },
+    {
+			"effect" : "maxenergyscalingboostfood",
+			"duration" : 14
+    },
+		"pat_poopwatervomit"
+  ]],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "pat_poopcoleslaw" ],
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.5
+}

@@ -1,0 +1,10 @@
+{
+	"input" : [
+		{ "item" : "pat_poopwater", "count" : 1 },
+		{ "item" : "egg", "count" : 1 },
+		{ "item" : "zcrab_vinegar", "count" : 1 },
+		{ "item" : "pat_oil", "count" : 1 }
+	],
+	"output" : { "item" : "pat_poopsaladcream", "count" : 1 },
+	"groups" : [ "craftingfood", "condiments" ]
+}
